@@ -7,7 +7,7 @@ import java.util.Scanner;
 //Exercicio resolvido 01
 //Testando Debug
 
-public class Exercicio_1 {
+public class Exercicio_resolvido_01 {
 
 	public static void main(String[] args) {
 		
